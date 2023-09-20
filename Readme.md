@@ -1,4 +1,5 @@
 # Bot Template
+ - This is a bot template for beginners to help them in the start.
  - If you are using the template make sure to credit me.
 # What it adds?
  - It adds a simple slash command and a normal command.
